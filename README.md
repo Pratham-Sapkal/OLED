@@ -1,12 +1,14 @@
 # Insert Image into OLED Display Using Arduino
 
 This guide provides step-by-step instructions for displaying an image on an OLED display (e.g., SSD1306) using an Arduino board.
-
+## [YouTube Tuorial](https://youtube.com/shorts/xsAYEUJKip8)
 ## Requirements
 - OLED Display (e.g., SSD1306 128x64 or 128x32)
 - Arduino Board (e.g., Arduino Uno or Nano)
 - OLED Libraries: `Adafruit_SSD1306` and `Adafruit_GFX`
 - A tool to convert an image to a byte array (e.g., `LCD Assistant` or an online converter)
+- BreadBoard
+- Jumper Wires
 
 ## Steps
 
