@@ -32,3 +32,9 @@ This guide provides step-by-step instructions for displaying an image on an OLED
   const unsigned char myImage[] PROGMEM = {
     // Paste the byte array here
   };
+
+### 5. Initialize the OLED
+
+- Set up the OLED using the `Adafruit_SSD1306` library.
+  
+### For more Detail refer to the Code ITSELF.
