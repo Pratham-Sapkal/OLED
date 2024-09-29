@@ -15,6 +15,7 @@ This guide provides step-by-step instructions for displaying an image on an OLED
 - **GND** to **GND**
 - **SCL** to **A5** (for I2C communication, depends on Arduino model)
 - **SDA** to **A4** (for I2C communication, depends on Arduino model)
+- ![Diagram of the OLED Setup](https://www.google.com/url?sa=i&url=https%3A%2F%2Fm.youtube.com%2Fwatch%3Fv%3DjLPuTb8R5YQ&psig=AOvVaw1capfcGmT8XUOKlw3IGZPc&ust=1727702384722000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNiAwaaf6IgDFQAAAAAdAAAAABAE)
 
 ### 2. Install Libraries
 - Open the Arduino IDE.
